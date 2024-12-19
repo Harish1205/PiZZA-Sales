@@ -17,6 +17,8 @@ Analyzing sales trends over time.
 Evaluating customer demographics and preferences.
 Calculating average order values.
 Assessing the performance of individual restaurant locations.
+
+
 4. Power BI Visualization :
 Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
 
@@ -25,6 +27,7 @@ Time series charts illustrating sales trends.
 Geographic maps showing the distribution of restaurant locations.
 Dashboards summarizing key performance indicators (KPIs).
 Power BI Visualization
+
 Dashboard 1
 
 Dashboard 2
